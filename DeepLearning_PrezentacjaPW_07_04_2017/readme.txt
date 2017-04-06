@@ -15,5 +15,10 @@ W przypadku prezentacji machine learning:
 !apt-get install python-tk -y
 
 
+Ewentualnie wystarczy na maszynę Dockera wrzucić plik config.sh i odpalić go z konsoli na maszynie:
+bash config.sh 
+Zostaną wtedy doinstalowane wszystkie potrzebne pakiety :).
+Powodzenia!
+
 
 

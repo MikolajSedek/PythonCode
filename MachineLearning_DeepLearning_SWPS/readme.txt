@@ -1,6 +1,6 @@
 Polecam skorzystać z maszyny wirtualnej na Linuxie lub Dockera (np. Kitematic + obraz: https://hub.docker.com/r/cannin/jupyter-keras-tensorflow-tools/).
 
-Próba uruchomienia tych obrazów pod Windowsem / MacOS prawdopodobnie się nie uda, albo będzie wymagać daleko idących zmian.
+Próba uruchomienia tych notebooków pod Windowsem / MacOS prawdopodobnie się nie uda, albo będzie wymagać daleko idących zmian.
 
 
 Warto do obrazu Dockera domontować dyski - inaczej nie zapamięta zmian.
